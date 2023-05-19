@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: nourazl@gmail.com
+Date: Wed, 02 Nov 2022 13:27:19 -0000
+Message-ID: <166739563965.35326.13892204979964438329@ousfia-HP-ZBook-15-G3>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/be9k1j-05d1d0358d20328d61830c6e24c25369/
+
+Your username, in case you’ve forgotten: nourazl
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,87 @@
+
+
+
+#bg {
+    background-size: 900px 900px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+.nom_recette{
+color: red;
+font-family: 'Lobster';
+size: 80px;
+}
+
+.body{
+    background: rgba(0, 0, 0, 0.181);
+
+
+  }
+.ingredients { color: blueviolet;
+               background-image: url ('menu.jpg');
+               font-weight: bold;
+               margin:80px 400px 60px 400px;
+               padding: 150px 100px 130px 100px;
+               text-align: center;
+               background-color : rgb(108, 104, 104);}
+.home {
+    background-image: url('recipe.jpg');
+}
+
+.tdStyle
+{
+background-image:url('{{ STATIC_URL }}images/recipe.jpg');
+background-repeat:no-repeat;
+background-size:100%;
+}
+
+
+nav
+{
+float: right;
+width: 750px;
+border: 1px solid black;
+               
+}
+
+
+#conteneur
+{
+    display: flex;
+
+    justify-content: space-around;
+    align-items: center;
+}
+h1 a, h2 a {
+    color: #C25100;
+    font-family: 'Lobster';
+    
+}
+
+
+
+.page-header h1,
+.page-header h1 a,
+.page-header h1 a:visited,
+.page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;}
+
+.page-header {
+    background-color: #92c200;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 40px;
+}
+
+#id_legume_toute{
+    color:greenyellow
+}
+
+h1 a, h2 a {
+    color: #C25100;
+    font-family: 'Lobster';
+}
